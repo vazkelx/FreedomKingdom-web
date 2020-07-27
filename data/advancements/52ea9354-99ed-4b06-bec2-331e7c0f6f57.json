@@ -1,0 +1,208 @@
+{
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/vwh": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "as:enable": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-05-04 22:06:28 +0200"
+    },
+    "done": false
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/ch": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/as": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-04-01 20:27:07 +0200",
+      "minecraft:plains": "2020-03-29 15:22:49 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/ss": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/afk": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/track_stats": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "main:main/dp": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-04-01 22:39:06 +0200"
+    },
+    "done": true
+  },
+  "main:main/track_raw_stats": {
+    "criteria": {
+      "tick": "2020-03-29 15:22:48 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

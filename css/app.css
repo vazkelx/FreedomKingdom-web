@@ -37,7 +37,6 @@ Colors:
 - Backgrounds - denim #2f2c3d
 ******************************************/
 
-
 /******************************/
 /*     01. General Styles     */
 /******************************/
@@ -645,7 +644,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-	height: 100px;
+	height: 75px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
 }
@@ -693,7 +692,9 @@ input[type='checkbox'] {
 .navbar-custom .dropdown-toggle:focus { /* removes dropdown outline on focus  */
 	outline: 0;
 }
-
+a.nav-link.page-scroll {
+    font-size: 18px;
+}
 .navbar-custom .dropdown-menu {
 	margin-top: 0;
 	border: none;
@@ -2101,3 +2102,10 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+#mciframe {
+	height: 80vh;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
