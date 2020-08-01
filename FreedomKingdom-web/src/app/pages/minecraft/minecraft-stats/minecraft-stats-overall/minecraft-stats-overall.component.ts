@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import data from '../../../../../assets/data.json';
 
 @Component({
   selector: 'app-minecraft-stats-overall',
@@ -6,8 +7,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./minecraft-stats-overall.component.scss']
 })
 export class MinecraftStatsOverallComponent implements OnInit {
+  playerData: any;
 
-  constructor() { }
+  constructor() { 
+    this.playerData = data;
+    console.log(data)
+    
+  }
 
   ngOnInit(): void {
   }
